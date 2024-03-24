@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ca08d47-442c-4ba5-a694-088d9f5e305c" name="Changes" comment="done">
-      <change afterPath="$PROJECT_DIR$/LinearSearch/linearsearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearSearch/EvenDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearSearch/FindMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearSearch/Searchin2Darray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearSearch/SearchinString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearSearch/searchinrange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-DSA-Solutions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode-DSA-Solutions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/linearsearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinearSearch/linearsearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,11 +28,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "niharikaathakur"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e4c1ab49-3c77-4541-a2b3-dafeafe3ae99" />
+        <option name="url" value="https://github.com/niharikaathakur/DSA-Java-Leetcode.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2dzrRPjk1JZwF6jIWuG108DaxWi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,14 +57,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.FindMin.executor": "Run",
+    "Application.Searchin2Darray.executor": "Run",
+    "Application.SearchinString.executor": "Run",
     "Application.findMaxConsecutiveOnes.executor": "Run",
     "Application.linearsearch.executor": "Run",
     "Application.maxsubarray1.executor": "Run",
     "Application.maxsubarray2.executor": "Run",
+    "Application.searchinrange.executor": "Run",
     "Application.stockbuysell.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
@@ -124,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711108264694</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="done">
+      <option name="closed" value="true" />
+      <created>1711303134348</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711303134348</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
