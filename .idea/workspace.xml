@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ca08d47-442c-4ba5-a694-088d9f5e305c" name="Changes" comment="done">
-      <change afterPath="$PROJECT_DIR$/BinarySearch/BsCeiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/BsFloor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/OrderAgnostic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/binarysearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/SmallestLetter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Leetcode-DSA-Solutions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode-DSA-Solutions/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +59,7 @@
     "Application.OrderAgnostic.executor": "Run",
     "Application.Searchin2Darray.executor": "Run",
     "Application.SearchinString.executor": "Run",
+    "Application.SmallestLetter.executor": "Run",
     "Application.binarysearch.executor": "Debug",
     "Application.findMaxConsecutiveOnes.executor": "Run",
     "Application.linearsearch.executor": "Run",
@@ -73,6 +70,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -184,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711520161024</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="done">
+      <option name="closed" value="true" />
+      <created>1711551425835</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711551425836</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
