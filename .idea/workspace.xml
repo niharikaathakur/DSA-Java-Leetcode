@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ca08d47-442c-4ba5-a694-088d9f5e305c" name="Changes" comment="done">
-      <change afterPath="$PROJECT_DIR$/LinearSearch/EvenDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearSearch/FindMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearSearch/Searchin2Darray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearSearch/SearchinString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinearSearch/searchinrange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearSearch/RichestCustomer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearSearch/linearsearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinearSearch/linearsearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearSearch/EvenDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinearSearch/EvenDigits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +24,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "niharikaathakur"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;niharikaathakur&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -54,24 +50,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.FindMin.executor": "Run",
-    "Application.Searchin2Darray.executor": "Run",
-    "Application.SearchinString.executor": "Run",
-    "Application.findMaxConsecutiveOnes.executor": "Run",
-    "Application.linearsearch.executor": "Run",
-    "Application.maxsubarray1.executor": "Run",
-    "Application.maxsubarray2.executor": "Run",
-    "Application.searchinrange.executor": "Run",
-    "Application.stockbuysell.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.EvenDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindMin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Searchin2Darray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchinString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.findMaxConsecutiveOnes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.linearsearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.maxsubarray1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.maxsubarray2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.searchinrange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.stockbuysell.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="linearsearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinearSearch.linearsearch" />
@@ -156,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711303134348</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="done">
+      <option name="closed" value="true" />
+      <created>1711306017892</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711306017892</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

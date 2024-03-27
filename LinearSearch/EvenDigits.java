@@ -5,6 +5,10 @@ public class EvenDigits {
         int[] arr ={555,901,482,1771};
         System.out.println(findNumbers(arr));
     }
+
+    static int digits(int num){
+        return (int) (Math.log10(num))+1;
+    }
     static int findNumbers(int[] nums){
         int count =0;
         for(int num:nums){
