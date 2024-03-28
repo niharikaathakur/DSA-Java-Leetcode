@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ca08d47-442c-4ba5-a694-088d9f5e305c" name="Changes" comment="done">
-      <change afterPath="$PROJECT_DIR$/BinarySearch/FandLposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/infiniteBinarySearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,31 +49,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.BsCeiling.executor": "Run",
-    "Application.BsFloor.executor": "Run",
-    "Application.EvenDigits.executor": "Run",
-    "Application.FindMin.executor": "Run",
-    "Application.OrderAgnostic.executor": "Run",
-    "Application.Searchin2Darray.executor": "Run",
-    "Application.SearchinString.executor": "Run",
-    "Application.SmallestLetter.executor": "Run",
-    "Application.binarysearch.executor": "Debug",
-    "Application.findMaxConsecutiveOnes.executor": "Run",
-    "Application.linearsearch.executor": "Run",
-    "Application.maxsubarray1.executor": "Run",
-    "Application.maxsubarray2.executor": "Run",
-    "Application.searchinrange.executor": "Run",
-    "Application.stockbuysell.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.BsCeiling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BsFloor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FandLposition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindMin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OrderAgnostic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Searchin2Darray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchinString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmallestLetter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.binarysearch.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.findMaxConsecutiveOnes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.linearsearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.maxsubarray1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.maxsubarray2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.searchinrange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.stockbuysell.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="linearsearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinearSearch.linearsearch" />
@@ -198,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711554733538</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="done">
+      <option name="closed" value="true" />
+      <created>1711560187303</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711560187303</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
